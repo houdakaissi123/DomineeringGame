@@ -2,13 +2,13 @@ package Domineering;
 
 import javax.swing.*;
 
-public class DomineeringButton extends JButton {
+public class  Button extends JButton {
 
     private int row;
     private int col;
     private int state;
 
-    public DomineeringButton(int row, int col, int state) {
+    public  Button(int row, int col, int state) {
         this.row = row;
         this.col = col;
         this.state = state;
