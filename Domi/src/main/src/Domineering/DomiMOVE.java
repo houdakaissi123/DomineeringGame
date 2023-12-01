@@ -4,11 +4,11 @@ package Domineering;//
 //
 
 
-public class DomineeringMove extends Move {
+public class DomiMove extends Move {
     public int row;
     public int col;
 
-    public DomineeringMove(int row, int col) {
+    public DomiMove(int row, int col) {
         this.row = row;
         this.col = col;
     }
