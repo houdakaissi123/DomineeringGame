@@ -1,6 +1,7 @@
 import javax.swing.*;
 
-public class GUI {
+public classINTERFACE
+    {
     private javax.swing.JPanel JPanel;
     private JPanel title;
     private JTextArea title1;
