@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class DomineeringH2H extends JFrame implements ActionListener {
+public class Human extends JFrame implements ActionListener {
     boolean player =true;
     private JLabel status;
     private int gridSize;
